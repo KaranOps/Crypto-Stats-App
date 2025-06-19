@@ -134,10 +134,15 @@ This project showcases your ability to:
 
 --- -->
 
+## 🙋 About Me
 
+Hi! I’m **Karan** 👋 — a full-stack developer passionate about **AI**, **creativity tools**, and building solutions that solve real-world problems.
 
-*Created by Karan Kumar*
-[LinkedIn](https://www.linkedin.com/in/karan899/) | [GitHub](https://github.com/KaranOps)
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/karanops93) or check out more of my work on [GitHub](https://github.com/KaranOps).
+
+---
+
+Made with ❤️
 
 
 
